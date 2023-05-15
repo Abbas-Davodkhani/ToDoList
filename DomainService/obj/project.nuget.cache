@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zG3mdKLczOSvM+ieX8cNXiEqFPQMoC4uhXNs/smO6LRP1TilpeGDbo1byjNKgxqOZppx88LGa8+GpigeTsV+8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PartLaptop\\Desktop\\Projects\\ToDo\\DomainService\\DomainService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PartLaptop\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\PartLaptop\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

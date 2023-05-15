@@ -1,0 +1,15 @@
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\bin\Debug\net7.0\ApplicationService.deps.json
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\bin\Debug\net7.0\ApplicationService.dll
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\bin\Debug\net7.0\ApplicationService.pdb
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.AssemblyInfo.cs
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.csproj.CopyComplete
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.dll
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\refint\ApplicationService.dll
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ApplicationService.pdb
+C:\Users\PartLaptop\Desktop\Projects\ToDo\Application\obj\Debug\net7.0\ref\ApplicationService.dll
